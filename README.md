@@ -1,2 +1,2 @@
 # Intern
-https://IamLoren.github.io/intern/CVTest
+https://iamloren.github.io/Intern/
